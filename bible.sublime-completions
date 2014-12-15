@@ -1,0 +1,280 @@
+{
+  "scope": [
+    "text.md - source - text.html.markdown, meta.paragraph.markdown",
+    "text.txt - source - text"
+  ],
+  "completions": [
+    {
+        "trigger" : "1ch",
+        "contents": "1 Chronicles"
+    },
+    {
+        "trigger" : "1co",
+        "contents": "1 Corinthians"
+    },
+    {
+        "trigger" : "1jo",
+        "contents": "1 John"
+    },
+    {
+        "trigger" : "1ki",
+        "contents": "1 Kings"
+    },
+    {
+        "trigger" : "1pe",
+        "contents": "1 Peter"
+    },
+    {
+        "trigger" : "1sa",
+        "contents": "1 Samuel"
+    },
+    {
+        "trigger" : "1th",
+        "contents": "1 Thessalonians"
+    },
+    {
+        "trigger" : "1ti",
+        "contents": "1 Timothy"
+    },
+    {
+        "trigger" : "2ch",
+        "contents": "2 Chronicles"
+    },
+    {
+        "trigger" : "2co",
+        "contents": "2 Corinthians"
+    },
+    {
+        "trigger" : "2jo",
+        "contents": "2 John"
+    },
+    {
+        "trigger" : "2ki",
+        "contents": "2 Kings"
+    },
+    {
+        "trigger" : "2pe",
+        "contents": "2 Peter"
+    },
+    {
+        "trigger" : "2sa",
+        "contents": "2 Samuel"
+    },
+    {
+        "trigger" : "2th",
+        "contents": "2 Thessalonians"
+    },
+    {
+        "trigger" : "2ti",
+        "contents": "2 Timothy"
+    },
+    {
+        "trigger" : "3jo",
+        "contents": "3 John"
+    },
+    {
+        "trigger" : "ac",
+        "contents": "Acts"
+    },
+    {
+        "trigger" : "am",
+        "contents": "Amos"
+    },
+    {
+        "trigger" : "col",
+        "contents": "Colossians"
+    },
+    {
+        "trigger" : "da",
+        "contents": "Daniel"
+    },
+    {
+        "trigger" : "de",
+        "contents": "Deuteronomy"
+    },
+    {
+        "trigger" : "ec",
+        "contents": "Ecclesiastes"
+    },
+    {
+        "trigger" : "eph",
+        "contents": "Ephesians"
+    },
+    {
+        "trigger" : "es",
+        "contents": "Esther"
+    },
+    {
+        "trigger" : "ex",
+        "contents": "Exodus"
+    },
+    {
+        "trigger" : "eze",
+        "contents": "Ezekiel"
+    },
+    {
+        "trigger" : "ezr",
+        "contents": "Ezra"
+    },
+    {
+        "trigger" : "ga",
+        "contents": "Galatians"
+    },
+    {
+        "trigger" : "ge",
+        "contents": "Genesis"
+    },
+    {
+        "trigger" : "hab",
+        "contents": "Habakkuk"
+    },
+    {
+        "trigger" : "hag",
+        "contents": "Haggai"
+    },
+    {
+        "trigger" : "heb",
+        "contents": "Hebrews"
+    },
+    {
+        "trigger" : "ho",
+        "contents": "Hosea"
+    },
+    {
+        "trigger" : "isa",
+        "contents": "Isaiah"
+    },
+    {
+        "trigger" : "jas",
+        "contents": "James"
+    },
+    {
+        "trigger" : "jer",
+        "contents": "Jeremiah"
+    },
+    {
+        "trigger" : "job",
+        "contents": "Job"
+    },
+    {
+        "trigger" : "joe",
+        "contents": "Joel"
+    },
+    {
+        "trigger" : "joh",
+        "contents": "John"
+    },
+    {
+        "trigger" : "jon",
+        "contents": "Jonah"
+    },
+    {
+        "trigger" : "jos",
+        "contents": "Joshua"
+    },
+    {
+        "trigger" : "jud",
+        "contents": "Judges"
+    },
+    {
+        "trigger" : "jude",
+        "contents": "Jude"
+    },
+    {
+        "trigger" : "la",
+        "contents": "Lamentations"
+    },
+    {
+        "trigger" : "le",
+        "contents": "Leviticus"
+    },
+    {
+        "trigger" : "lu",
+        "contents": "Luke"
+    },
+    {
+        "trigger" : "mal",
+        "contents": "Malachai"
+    },
+    {
+        "trigger" : "mic",
+        "contents": "Micah"
+    },
+    {
+        "trigger" : "mr",
+        "contents": "Mark"
+    },
+    {
+        "trigger" : "mt",
+        "contents": "Matthew"
+    },
+    {
+        "trigger" : "na",
+        "contents": "Nahum"
+    },
+    {
+        "trigger" : "ne",
+        "contents": "Nehemiah"
+    },
+    {
+        "trigger" : "nt",
+        "contents": "New Testament"
+    },
+    {
+        "trigger" : "nu",
+        "contents": "Numbers"
+    },
+    {
+        "trigger" : "ob",
+        "contents": "Obadiah"
+    },
+    {
+        "trigger" : "ot",
+        "contents": "Old Testament"
+    },
+    {
+        "trigger" : "phm",
+        "contents": "Philemon"
+    },
+    {
+        "trigger" : "php",
+        "contents": "Philippians"
+    },
+    {
+        "trigger" : "pr",
+        "contents": "Proverbs"
+    },
+    {
+        "trigger" : "ps",
+        "contents": "Psalms"
+    },
+    {
+        "trigger" : "re",
+        "contents": "Revelation"
+    },
+    {
+        "trigger" : "ro",
+        "contents": "Romans"
+    },
+    {
+        "trigger" : "ru",
+        "contents": "Ruth"
+    },
+    {
+        "trigger" : "so",
+        "contents": "Solomon"
+    },
+    {
+        "trigger" : "tit",
+        "contents": "Titus"
+    },
+    {
+        "trigger" : "zec",
+        "contents": "Zecaraiah"
+    },
+    {
+        "trigger" : "zep",
+        "contents": "Zephaniah"
+    }
+  ]
+}
