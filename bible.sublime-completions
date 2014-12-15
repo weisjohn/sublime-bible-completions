@@ -217,20 +217,12 @@
         "contents": "Nehemiah"
     },
     {
-        "trigger" : "nt",
-        "contents": "New Testament"
-    },
-    {
         "trigger" : "nu",
         "contents": "Numbers"
     },
     {
         "trigger" : "ob",
         "contents": "Obadiah"
-    },
-    {
-        "trigger" : "ot",
-        "contents": "Old Testament"
     },
     {
         "trigger" : "phm",
@@ -275,6 +267,38 @@
     {
         "trigger" : "zep",
         "contents": "Zephaniah"
+    },
+    {
+        "trigger" : "je",
+        "contents": "Jesus"
+    },
+    {
+        "trigger" : "jc",
+        "contents": "Jesus Christ"
+    },
+    {
+        "trigger" : "nt",
+        "contents": "New Testament"
+    },
+    {
+        "trigger" : "ot",
+        "contents": "Old Testament"
+    },
+    {
+        "trigger" : "pha",
+        "contents": "Pharisees"
+    },
+    {
+        "trigger" : "pl",
+        "contents": "Promised Land"
+    },
+    {
+        "trigger" : "scr",
+        "contents": "Scripture"
+    },
+    {
+        "trigger" : "yh",
+        "contents": "YHWH"
     }
   ]
 }
