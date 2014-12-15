@@ -9,7 +9,9 @@ Sublime completions of names for the books of the Bible
 
 This abbreviation system (from [BibleStudyTools](http://www.biblestudytools.com/resources/abbreviation-guide.html)) allows one to type at most three characters to expand out the name a given book of the Bible:
 
-### Old Testament
+## Books of the Bible
+
+#### Old Testament
 
 | Book | Abbreviation |
 |------|--------------|
@@ -53,7 +55,7 @@ This abbreviation system (from [BibleStudyTools](http://www.biblestudytools.com/
 | Zecaraiah | zec |
 | Malachai | mal |
 
-### New Testament
+#### New Testament
 
 | Book | Abbreviation |
 |------|--------------|
@@ -86,9 +88,15 @@ This abbreviation system (from [BibleStudyTools](http://www.biblestudytools.com/
 | Revelation | re |
 
 
-### Additonal Completions
+## Additonal Completions
 
 | Term/Phrase | Abbreviation |
 |------|--------------|
-| Old Testament | ot |
+| Jesus | je |
+| Jesus Christ | jc |
 | New Testament | nt |
+| Old Testament | ot |
+| Pharisees | pha |
+| Promised Land | pl |
+| Scripture | scr |
+| YHWH | yh |
