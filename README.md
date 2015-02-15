@@ -92,6 +92,7 @@ This abbreviation system (from [BibleStudyTools](http://www.biblestudytools.com/
 
 | Term/Phrase | Abbreviation |
 |------|--------------|
+| Christians | chr |
 | Jesus | je |
 | Jesus Christ | jc |
 | New Testament | nt |
