@@ -1,7 +1,6 @@
 {
   "scope": [
-    "text.md - source - text.html.markdown, meta.paragraph.markdown",
-    "text.txt - source - text"
+    "text.md - source - text.html.markdown, meta.paragraph.markdown"
   ],
   "completions": [
     {
